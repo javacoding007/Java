@@ -6,6 +6,6 @@ public class CelciusToFarenheit
 	    Scanner sc = new Scanner(System.in);
 	    int c = sc.nextInt();
 	    float f = ((c*9.0f)/5)+32;
-		  System.out.println(f);
+            System.out.println(f);
 	}
 }
