@@ -6,6 +6,6 @@ public class PerimeterOfSquare
 	    Scanner sc = new Scanner(System.in);
 	    int a = sc.nextInt();
 	    int p = 4 * a;
-      System.out.println(p);
+            System.out.println(p);
 	}
 }
